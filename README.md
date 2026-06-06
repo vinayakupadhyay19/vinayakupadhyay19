@@ -1,79 +1,185 @@
-Hi there 👋, I'm Vinayak Upadhyay
+Hi 👋, I'm Vinayak Upadhyay
 
-Java Backend Engineer | Spring Boot | Microservices | Kafka | System Design
+Java Backend Engineer | Distributed Systems | Microservices | Kafka | AI Engineering
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">Passionate Backend Engineer with 2.5+ years of experience building scalable, high-performance applications using Java and Spring Boot.
-
-I enjoy designing distributed systems, developing microservices, solving challenging backend problems, and exploring AI-powered applications using RAG and LLMs.
-
----
+<p align="left">
+  <a href="https://github.com/vinayakupadhyay19">
+    <img src="https://komarev.com/ghpvc/?username=vinayakupadhyay19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>---
 
 🚀 About Me
 
-- 💼 Backend Developer with 2.5+ years of professional experience
-- ☕ Strong expertise in Java, Spring Boot, Microservices, and REST APIs
-- ⚡ Hands-on experience with Kafka, Redis, Docker, and Database Design
-- 🗄️ Skilled in Oracle SQL, MySQL, and MongoDB
-- 🧠 Data Structures & Algorithms Enthusiast
-- 🤖 Exploring AI, RAG, LLMs, and Intelligent Applications
-- 🎯 Preparing for Tier-1 Product-Based Companies
-- 🎓 MMMUT Alumnus
+Backend Engineer with 2.5+ years of experience building high-throughput, fault-tolerant systems for enterprise banking platforms.
+
+Currently working at TCS on large-scale banking applications processing millions of transactions while also building AI-powered systems using RAG Pipelines, LLMs, and NLP-to-SQL architectures.
+
+I enjoy solving challenging backend problems involving scalability, distributed systems, event-driven architecture, and system design.
 
 ---
 
-🛠️ Tech Stack
+💼 Professional Highlights
+
+✅ Improved service throughput by 30%
+
+✅ Reduced reporting latency by 40%
+
+✅ Reduced manual compliance effort by 20%
+
+✅ Built APIs used in enterprise banking workflows
+
+✅ Developed Kafka-based event-driven microservices
+
+✅ Built AI-powered NLP-to-SQL reporting platform using RAG + Llama
+
+✅ Solved 900+ LeetCode problems
+
+✅ AIR 1017 in TCS CodeVita
+
+---
+
+🛠 Tech Stack
 
 Languages
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+Java 8/11/17 • SQL • C++
 
-Backend Technologies
+Backend
 
-"Spring Boot" (https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-"Microservices" (https://img.shields.io/badge/Microservices-02569B?style=for-the-badge)
-"REST API" (https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+Spring Boot
+Spring Cloud
+Spring MVC
+Spring Security
+Hibernate
+JPA
+REST APIs
+SOAP/XML
+Microservices
 
 Databases
 
-"Oracle" (https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-"Redis" (https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+Oracle SQL
+MySQL
+MongoDB
+Redis
 
-Messaging & DevOps
+Messaging & Streaming
 
-"Kafka" (https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+Apache Kafka
+Event-Driven Architecture
+
+DevOps & Tools
+
+Docker
+Kubernetes
+Git
+Maven
+Bash
+JUnit
+Postman
+SoapUI
+Tomcat
+JBoss
+
+Engineering Concepts
+
+System Design
+Distributed Systems
+API Design
+Authentication & Authorization
+CI/CD
+Observability
+Design Patterns
+DSA
 
 ---
 
-🌱 Currently Learning
+🔥 Featured Projects
 
-- Advanced System Design
-- Spring Cloud Ecosystem
-- Distributed Systems
-- AI Agents
-- RAG Pipelines
-- LLM Integrations
+Event-Driven Notification System
+
+Production-style notification platform built using Kafka and Spring Boot.
+
+Tech Stack
+
+- Java
+- Spring Boot
+- Kafka
+- Docker
+- MySQL
+
+Highlights
+
+- Event-driven architecture
+- Kafka producers & consumers
+- Consumer groups
+- Fault-tolerant messaging
+- Dockerized deployment
+
+🔗 Repository:
+https://github.com/vinayakupadhyay19/Event-Driven-Notification-System
 
 ---
 
-💡 Areas of Interest
+Currency Exchange Microservices
 
-- Backend Engineering
-- Scalable Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- AI Applications
-- Cloud Native Development
+Distributed microservices ecosystem built with Spring Cloud.
+
+Tech Stack
+
+- Spring Boot
+- Spring Cloud
+- Eureka
+- OpenFeign
+- API Gateway
+- Docker
+
+Highlights
+
+- Service Discovery
+- Dynamic Routing
+- Load Balancing
+- Circuit Breakers
+- Centralized Configuration
+
+🔗 Repository:
+https://github.com/vinayakupadhyay19/SpringBoot-Microservices
 
 ---
 
-📊 GitHub Stats
+AI-Powered Customer Report System
 
-"Vinayak's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=vinayakupadhyay19&show_icons=true&theme=tokyonight)
+Currently building an enterprise reporting platform that converts natural language into optimized SQL queries.
+
+Architecture
+
+User Query
+     ↓
+RAG Pipeline
+     ↓
+Context Retrieval
+     ↓
+Llama LLM
+     ↓
+SQL Generation
+     ↓
+Database Execution
+     ↓
+PDF / CSV Export
+
+Features
+
+- Natural Language Querying
+- NLP-to-SQL Conversion
+- RAG Context Layer
+- Multi-format Export
+- Enterprise Reporting
+
+---
+
+📈 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=vinayakupadhyay19&show_icons=true&theme=tokyonight)
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakupadhyay19&layout=compact&theme=tokyonight)
 
@@ -81,20 +187,49 @@ Messaging & DevOps
 
 ---
 
+🏆 Achievements
+
+- Solved 900+ LeetCode Problems
+- Solved 400+ Codeforces Problems
+- AIR 1017 – TCS CodeVita Season 10
+- Rank 263 – CodeChef Cook-Off Division 2
+- Qualified CodeChef SnackDown Pre-Elimination Round
+- Reported a production security vulnerability to Netflix
+
+---
+
+🎓 Education
+
+Madan Mohan Malaviya University of Technology (MMMUT)
+
+B.Tech – Computer Science Engineering
+
+CGPA: 7.88/10
+
+---
+
+🌱 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- AI Agents
+- RAG Architectures
+- LLM Engineering
+- Kubernetes
+- Cloud-Native Development
+
+---
+
 📫 Connect With Me
 
-- GitHub: https://github.com/vinayakupadhyay19
-- LinkedIn: https://www.linkedin.com/in/vinayak-upadhyay-332069213/
-- Email: vinayak7317783517@gmail.com
+📧 Email: vinayak7317783517@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/vinayak-upadhyay-332069213/
+
+💻 GitHub: https://github.com/vinayakupadhyay19
 
 ---
 
-⚡ Quote
+💡 Motto
 
-«"Building scalable backend systems, solving complex problems, and continuously learning new technologies."»
-
----
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, feel free to connect, collaborate, or discuss Java, System Design, Microservices, AI, and Backend Engineering.
+«Building scalable systems, solving complex engineering problems, and continuously learning cutting-edge technologies.»
